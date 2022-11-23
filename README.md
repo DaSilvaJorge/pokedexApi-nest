@@ -27,3 +27,7 @@ docker-compose up -d
 
 - MongoDB
 - Nest
+
+## Link del Curso
+
+- https://www.udemy.com/course/nest-framework/
